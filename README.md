@@ -14,7 +14,7 @@ Hence, below script will help to overcome incompatibiity issue with intellij CE 
 # What is needed:   
 
   - Download [Go-0.13.1947.zip](https://plugins.jetbrains.com/plugin/5047-go-language-golang-org-support-plugin) or latest version.
-  - Run go_compatible.sh <go zip folder> <version e.g. 172>which will simply create Go.zip file 
+  - Run go_compatible.sh <go zip folder> <version e.g. 172> which will simply create Go.zip file 
   - Install this Go.zip as "Install plugins from Disk option"
 
 Hope this will help.
